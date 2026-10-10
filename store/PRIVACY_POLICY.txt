@@ -1,0 +1,63 @@
+================================================================
+PRIVACY POLICY — QAVEX GO MASTER
+================================================================
+Developer:  muhammad ehtasham (QAVEX)
+Website:    https://www.qavex.company/
+Contact:    games@qavex.company | +923375621550
+Category:   Board
+App ID:     qavexgomaster (com.qavex.qavexgomaster)
+Effective:  October 2026
+
+----------------------------------------------------------------
+1. NO DATA COLLECTION
+----------------------------------------------------------------
+Qavex Go Master does not collect, transmit, sell, or share any personal
+data. There is no user account, no sign-in, and no analytics of any kind.
+
+----------------------------------------------------------------
+2. ON-DEVICE STORAGE ONLY
+----------------------------------------------------------------
+Your player name, game statistics, achievements, Stone Coins balance,
+owned board themes, app settings and daily streak are stored exclusively
+in local app storage on your device. Uninstalling the app permanently
+deletes this data. QAVEX has no servers that receive your data.
+
+----------------------------------------------------------------
+3. NO ADVERTISING, NO TRACKERS
+----------------------------------------------------------------
+The app displays no advertisements and embeds no third-party advertising
+or tracking SDKs.
+
+----------------------------------------------------------------
+4. IN-APP PURCHASE
+----------------------------------------------------------------
+The app offers exactly one optional in-app purchase:
+  "Buy Me a Coffee" — $0.99 — product ID: qavexgomastercoffee
+The purchase is processed entirely by the Google Play Store (Android) or
+Apple App Store (iOS). QAVEX does not see, handle, or store your payment
+information. Purchasing is never required to access any game feature.
+
+----------------------------------------------------------------
+5. CHILDREN'S PRIVACY
+----------------------------------------------------------------
+The app is suitable for all ages and includes a Kids Mode. Because no
+personal data is collected from anyone, there is no children's data to
+protect, share, or delete beyond what remains on the device itself.
+
+----------------------------------------------------------------
+6. PERMISSIONS
+----------------------------------------------------------------
+The app requests no sensitive device permissions (no location, contacts,
+camera, microphone, or storage access beyond its own private files).
+
+----------------------------------------------------------------
+7. CHANGES TO THIS POLICY
+----------------------------------------------------------------
+If this policy changes, the updated version will ship inside the app
+(About & Privacy screen) with a new effective date.
+
+----------------------------------------------------------------
+8. CONTACT
+----------------------------------------------------------------
+Privacy questions: games@qavex.company | +923375621550
+Web: https://www.qavex.company/

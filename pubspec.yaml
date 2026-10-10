@@ -1,0 +1,46 @@
+name: qavexgomaster
+description: "Qavex Go Master — play Go (Weiqi/Baduk) on 9x9, 13x13 and 19x19 boards with AI opponents, tsumego puzzles and offline play."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  audioplayers: ^6.1.0
+  in_app_purchase: ^3.2.0
+  shared_preferences: ^2.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  test: ^1.25.0
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icon/icon.png
+    - assets/images/splash.png
+    - assets/images/goban_9.png
+    - assets/images/goban_13.png
+    - assets/images/goban_19.png
+    - assets/images/stone_black.png
+    - assets/images/stone_white.png
+    - assets/audio/bgm_calm.wav
+    - assets/audio/bgm_focus.wav
+    - assets/audio/sfx_stone_place.wav
+    - assets/audio/sfx_capture.wav
+    - assets/audio/sfx_pass.wav
+    - assets/audio/sfx_button.wav
+    - assets/audio/sfx_win.wav
+    - assets/audio/sfx_lose.wav
+    - assets/audio/sfx_coin.wav
+    - assets/audio/sfx_achievement.wav
+    - assets/audio/sfx_tick.wav
+    - assets/audio/sfx_error.wav

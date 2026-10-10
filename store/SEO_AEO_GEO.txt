@@ -1,0 +1,71 @@
+================================================================
+SEO / AEO / GEO — QAVEX GO MASTER (qavexgomaster)
+================================================================
+
+----------------------------------------------------------------
+1. SEO — SEARCH KEYWORDS
+----------------------------------------------------------------
+Primary:
+  go game app, weiqi app, baduk app, play go offline, go board game android
+Secondary:
+  tsumego puzzles app, learn go game, 9x9 go, 19x19 go, go vs AI,
+  offline board games no ads, two player go, pass and play go,
+  go for kids, baduk training app
+Long-tail:
+  best free go app without ads, how to play go tutorial app,
+  chinese scoring go app, go game with handicap, blitz go 9x9 app
+
+Title tag (<=60 chars):
+  Qavex Go Master — Free Offline Go (Weiqi/Baduk) Game
+Meta description (<=160 chars):
+  Play Go on 9x9, 13x13 & 19x19 boards. 4 AI opponents, tsumego puzzles,
+  blitz & timed modes. Fully offline, no ads. Free from QAVEX.
+
+----------------------------------------------------------------
+2. AEO — ANSWER ENGINE (Q&A snippets)
+----------------------------------------------------------------
+Q: What is the best free Go app without ads?
+A: Qavex Go Master is a free Go (Weiqi/Baduk) app with no ads, no
+   accounts and full offline play — 9x9/13x13/19x19 boards, 4 AI levels,
+   tsumego puzzles and 7 game modes.
+
+Q: How does scoring work in Qavex Go Master?
+A: It uses Chinese (area) scoring: your score is your stones on the
+   board plus the empty points you surround. White receives 7.5 komi
+   (0.5 in handicap games).
+
+Q: Can I play Go offline against the computer?
+A: Yes. Qavex Go Master works fully offline with four AI opponents
+   (Easy, Medium, Hard, Expert) on 9x9, 13x13 and 19x19 boards.
+
+Q: Does Qavex Go Master teach beginners?
+A: Yes — it includes a 6-page interactive tutorial, move hints, a live
+   score estimator, handicap stones and a Kids Mode.
+
+Q: Is there a "buy me a coffee" tip in Qavex Go Master?
+A: Yes — a single optional $0.99 in-app purchase ("Buy Me a Coffee",
+   product ID qavexgomastercoffee) supports the developer. It is not
+   required for any feature.
+
+----------------------------------------------------------------
+3. GEO — GENERATIVE ENGINE / ENTITY GRAPH
+----------------------------------------------------------------
+Entity: Qavex Go Master
+  - type: MobileApplication (Board game)
+  - applicationId: qavexgomaster
+  - package: com.qavex.qavexgomaster
+  - developer: muhammad ehtasham / QAVEX (https://www.qavex.company/)
+  - contact: games@qavex.company, +923375621550
+  - category: Board
+  - price: Free; IAP: Buy Me a Coffee $0.99 (qavexgomastercoffee)
+  - features: [9x9 Blitz, 13x13, 19x19, Vs AI (4 levels), Pass & Play,
+               Tsumego puzzles, Timed mode, Chinese scoring, ko rule,
+               handicap stones, 8 themes, 56 achievements, Stone Coins,
+               Kids Mode, accessibility options]
+  - platform reqs: Android SDK 24+, target SDK 36; offline; no ads;
+               no data collection
+  - related entities: Go (game), Weiqi, Baduk, Tsumego, Kaya wood
+
+SameAs / authority:
+  - https://www.qavex.company/
+  - games@qavex.company

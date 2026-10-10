@@ -1,0 +1,83 @@
+================================================================
+STORE LISTING — QAVEX GO MASTER
+================================================================
+Game ID:    qavexgomaster
+Package:    com.qavex.qavexgomaster
+Version:    1.0.0+1
+Category:   Board
+Developer:  muhammad ehtasham (QAVEX)
+Website:    https://www.qavex.company/
+Support:    games@qavex.company | +923375621550
+Price:      Free (one optional $0.99 in-app tip)
+IAP:        "Buy Me a Coffee" — $0.99 — product ID: qavexgomastercoffee
+Ads:        None.   Offline: fully playable offline.   Min SDK 24 / Target 36.
+
+----------------------------------------------------------------
+APP TITLE (30 chars)
+----------------------------------------------------------------
+Qavex Go Master — Board Game
+
+----------------------------------------------------------------
+SHORT DESCRIPTION (80 chars)
+----------------------------------------------------------------
+Play Go on 9x9, 13x13 & 19x19. 4 AI levels, tsumego puzzles, offline, no ads.
+
+----------------------------------------------------------------
+FULL DESCRIPTION
+----------------------------------------------------------------
+Qavex Go Master brings the 4,000-year-old game of Go (Weiqi / Baduk) to
+your phone — beautifully simple, fully offline, and completely ad-free.
+
+PLAY YOUR WAY — 7 GAME MODES
+• 9x9 Blitz — lightning games on a 5-minute clock
+• 13x13 Battle — the perfect middle ground
+• 19x19 Classic — the full-size board
+• Vs AI — custom match: board size, handicap, your color
+• Pass & Play — two players, one device
+• Tsumego Puzzles — 8 hand-crafted life-and-death problems
+• Timed — every second counts on a 10-minute clock
+
+FOUR AI OPPONENTS
+Easy for beginners, Medium for club players, Hard with 2-ply tactical
+reading, and Expert with pattern play plus Monte Carlo playouts. All
+respect the ko rule and Chinese (area) scoring.
+
+LEARN AS YOU PLAY
+• Interactive 6-page How to Play tutorial
+• Live score estimator and move hints
+• Handicap stones for fair learning games
+• Kids Mode with friendly guidance
+
+MAKE IT YOURS
+• 8 hand-crafted board themes, including the signature Kaya Wood
+  (kaya #E8C87A, ink, vermillion) plus Midnight, Ocean, Slate, Moss,
+  Royal, Mono and Sunset
+• 56 achievements, lifetime stats, daily streaks
+• Stone Coins — soft currency earned purely by playing; spend them on
+  themes. No pay-to-win, ever.
+
+FREE, OFFLINE, PRIVATE
+No accounts, no ads, no trackers, no data collection. Your progress
+lives only on your device. One optional $0.99 "Buy Me a Coffee" tip
+supports the developer.
+
+Whether you're placing your first stone or chasing dan strength —
+your move.
+
+----------------------------------------------------------------
+TAGS / KEYWORDS
+----------------------------------------------------------------
+go, weiqi, baduk, board game, strategy, igo, tsumego, life and death,
+offline games, no ads, two player, pass and play, AI board game
+
+----------------------------------------------------------------
+CONTENT RATING
+----------------------------------------------------------------
+Everyone. Includes optional Kids Mode.
+
+----------------------------------------------------------------
+WHATS NEW (1.0.0)
+----------------------------------------------------------------
+Initial release: 7 modes, 4 AI opponents, 8 tsumego puzzles,
+8 board themes, 56 achievements, Stone Coins, Kids Mode,
+accessibility options, offline play, no ads.
